@@ -1,4 +1,4 @@
-# Chapter 1
+# Chapter 1 - Installation and Setup
 
 This chapter covers installing and configuring JupyterLab. Following is a brief synopsis. All commands are run in a terminal or command prompt.
 
